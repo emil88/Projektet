@@ -15,8 +15,8 @@ body {
     padding: 20px;
 }
 body {
-  background-image: url("../images/red-pentagram.png");
-  background-position: center top;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+    background-image: url("../images/red-pentagram-dark.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
