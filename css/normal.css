@@ -5,6 +5,10 @@ header {
     background-color: #FF7340;
 }
 body {
+    background-image: url("../images/red-pentagram-dark.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     height: 100%;
     background-color: #E0E0E0;
 }
@@ -13,10 +17,4 @@ body {
 }
 #container {
     padding: 20px;
-}
-body {
-    background-image: url("../images/red-pentagram-dark.jpg");
-    background-position: center top;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
 }
