@@ -1,12 +1,17 @@
+h1 {
+    font: 3em "Gloria Hallelujah","Comic Sans MS";
+}
 html {
     height: 100%;
 }
 header {
+    opacity: 0.75;
     background-color: #FF7340;
 }
 body {
     background-image: url("../images/red-pentagram-dark.jpg");
-    background-position: center top;
+    background-position: top;
+    background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
     height: 100%;
