@@ -20,6 +20,10 @@ body {
 }
 nav a {
     display: block;
+    background: none repeat scroll 0% 0% #A62D00;
+    color: #FF4500;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 #main {
     background-color: white;
